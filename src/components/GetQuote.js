@@ -3,8 +3,8 @@ import { FaArrowRight } from "react-icons/fa";
 const GetQuote = () => {
   return (
     <div>
-      <div className="sm:mt-[200px] mb-[0px] sm:mb-[-110px]">
-        <div className="flex flex-wrap max-w-[1200px] m-auto bg-[#000000db] justify-between items-center py-[20px] px-[30px] sm:px-[30px] sm:py-[60px] ">
+      <div className="sm:mt-[200px] mb-[0px] sm:mb-[-110px] relative z-50">
+        <div className="flex flex-wrap max-w-[1200px]  m-auto bg-[#000000db] justify-between items-center py-[20px] px-[30px] sm:px-[30px] sm:py-[60px] ">
           <h1 className=" text-white text-2xl sm:text-4xl max-w-[400px]">
             We Design digital experiences that drive excellent results
           </h1>
@@ -18,14 +18,14 @@ const GetQuote = () => {
       </div>
       <div className="quoteBgImg ">
         <div className="wrapper">
-          <div className="pt-[300px] sm:pt-[500px]">
+          <div className="pt-[100px] sm:pt-[400px] sm:pb-[100px]">
             <p className="text-center text-white">
               Get in touch with us anytime
             </p>
-            <h1 className="text-center text-white pt-3 text-2xl sm:text-4xl font-bold uppercase">
+            <h1 className="text-center text-white pt-3 text-1xl sm:text-4xl font-bold uppercase">
               we believe that every
             </h1>
-            <h1 className="text-center text-white pt-3 text-2xl sm:text-4xl font-bold uppercase">
+            <h1 className="text-center text-white pt-3 text-1xl sm:text-4xl font-bold uppercase">
               great project starts with a vision
             </h1>
             <a href="" className="flex justify-center mt-10">

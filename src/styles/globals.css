@@ -7,7 +7,6 @@
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100vh !important;
 
 }
 
@@ -16,11 +15,7 @@
   width: 80%;
   margin: auto;
 }
-.wrapperr{
-  max-width: 1800px;
-  width: 100%;
-  margin: auto;
-}
+
 .boxShadow{
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
@@ -32,14 +27,14 @@
   background-repeat: no-repeat;
   background-size: cover;
   /* background-position: center; */
-  height: 100vh;
+  
 }
 .quoteBgImg{
   background-image: url("https://i.ibb.co/9bB36TC/Mask-Group-31.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
-  height: 100vh !important;
+
 }
 
 @media all and (max-width: 568px) {

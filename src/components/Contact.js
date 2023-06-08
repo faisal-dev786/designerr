@@ -5,11 +5,11 @@ const Contact = () => {
     <div>
       <>
         {/* Contact Us */}
-        <div className="max-w-[85rem] px-4 py-1 sm:px-6 lg:px-8 lg:py-14 mx-auto">
-          <div className="max-w-2xl lg:max-w-5xl mx-auto">
+        <div className=" px-4 py-1 sm:px-6 lg:px-8 lg:py-14 ">
+          <div className="wrapper">
             <div className="mt-12 grid items-center lg:grid-cols-2 gap-6 lg:gap-16">
               {/* Card */}
-              <div className="flex flex-col  p-4 sm:p-6 lg:p-8 dark:border-gray-700">
+              <div className="flex flex-col   sm:p-6 lg:p-8 dark:border-gray-700">
                 <p className="pb-3">Contact Now</p>
                 <h2 className="uppercase mb-8 text-xl font-bold text-gray-800 dark:text-gray-200">
                   Get in touch with us

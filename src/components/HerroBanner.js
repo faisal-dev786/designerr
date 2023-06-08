@@ -3,8 +3,8 @@ import React from "react";
 const HerroBanner = () => {
   return (
     <div>
-      <div className="bgBanner wrapperr">
-        <div className="px-[30px] sm:px-[350px] py-[100px] sm:pt-[250px]">
+      <div className="bgBanner">
+        <div className=" py-[100px] sm:pt-[250px] wrapper">
           <h1 className="text-2xl sm:text-6xl  sm:max-w-[950px] text-white uppercase font-bold">
             Creative solutions for your digital needs
           </h1>

@@ -6,7 +6,9 @@ const Services = () => {
     <div>
       <div className="wrapper pt-10">
         <p className="text-center">Our Expertise</p>
-        <h1 className="text-4xl font-bold text-center">Our Services</h1>
+        <h1 className="text-2xl sm:text-4xl font-bold text-center">
+          Our Services
+        </h1>
         <div className="grid grid-cols-1 sm:grid-cols-3">
           {/* col 1 */}
           <div>
