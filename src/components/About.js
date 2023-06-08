@@ -3,7 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div>
-      <div className="bg-gray-200 py-[100px] sm:py-[200px]">
+      <div className="bg-gray-200 py-[100px] sm:py-[100px]">
         <div className="wrapper grid grid-cols-1 sm:grid-cols-2 ">
           <img src="https://i.ibb.co/Vvx6W9m/Group-2963.png" alt="" />
           <div>

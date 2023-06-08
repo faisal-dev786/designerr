@@ -4,7 +4,7 @@ const HerroBanner = () => {
   return (
     <div>
       <div className="bgBanner">
-        <div className=" py-[100px] sm:pt-[250px] wrapper">
+        <div className=" py-[100px] sm:pt-[200px] sm:pb-[150px] wrapper">
           <h1 className="text-2xl sm:text-6xl  sm:max-w-[950px] text-white uppercase font-bold">
             Creative solutions for your digital needs
           </h1>
@@ -15,7 +15,7 @@ const HerroBanner = () => {
           </p>
           <button
             type="button"
-            class="py-2.5 px-5 mr-2 mb-2 text-sm font-bold text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
+            class="py-2.5 px-5 mr-2 mb-5 text-sm font-bold text-gray-900 focus:outline-none bg-white rounded-lg border border-gray-200 hover:bg-gray-100 hover:text-blue-700 focus:z-10 focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700"
           >
             Get Started
           </button>

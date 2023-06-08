@@ -12,17 +12,17 @@ const Testimonials = () => {
           <div className="boxxShadow ml-5 sm:ml-0 py-5 px-8 mt-[50px] sm:mt-[100px] bg-white rounded-xl max-w-[320px]">
             <div className="flex items-center relative">
               <img
-                className="absolute max-w-[100px] sm:max-w-[unset] left-[-90px] sm:left-[-120px] top-[-20px] "
+                className="absolute max-w-[100px] sm:max-w-[unset] left-[-90px] sm:left-[-100px] top-[-20px] "
                 src="https://i.ibb.co/5x1JJWZ/Group-6202.png"
                 alt=""
               />
-              <p className="pb-5">
+              <p className="pb-5 sm:ml-[20px]">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et{" "}
               </p>
             </div>
 
-            <div className="flex items-center gap-3 border-t-2 pt-3">
+            <div className="flex items-center gap-3 border-t-2 pt-3 sm:ml-[20px]">
               <img src="https://i.ibb.co/Kqrdjq1/Ellipse-35.png" alt="" />
               <div>
                 <p>Carl Hooper</p>
@@ -34,17 +34,17 @@ const Testimonials = () => {
           <div className="boxxShadow ml-5 sm:ml-0 py-5 px-8 mt-[50px] sm:mt-[100px] bg-white rounded-xl max-w-[320px]">
             <div className="flex items-center relative">
               <img
-                className="absolute max-w-[100px] sm:max-w-[unset] left-[-90px] sm:left-[-120px] top-[-20px] "
+                className="absolute max-w-[100px] sm:max-w-[unset] left-[-90px] sm:left-[-100px] top-[-20px] "
                 src="https://i.ibb.co/5x1JJWZ/Group-6202.png"
                 alt=""
               />
-              <p className="pb-5">
+              <p className="pb-5 sm:ml-[20px]">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et{" "}
               </p>
             </div>
 
-            <div className="flex items-center gap-3 border-t-2 pt-3">
+            <div className="flex items-center gap-3 border-t-2 pt-3 sm:ml-[20px]">
               <img src="https://i.ibb.co/Kqrdjq1/Ellipse-35.png" alt="" />
               <div>
                 <p>Kelly Wilson</p>
@@ -56,17 +56,17 @@ const Testimonials = () => {
           <div className="boxxShadow  ml-5 sm:ml-0 py-5 px-8 mt-[50px] sm:mt-[100px] bg-white rounded-xl max-w-[320px]">
             <div className="flex items-center relative">
               <img
-                className="absolute max-w-[100px] sm:max-w-[unset] left-[-90px] sm:left-[-120px] top-[-20px] "
+                className="absolute max-w-[100px] sm:max-w-[unset] left-[-90px] sm:left-[-100px] top-[-20px] "
                 src="https://i.ibb.co/5x1JJWZ/Group-6202.png"
                 alt=""
               />
-              <p className="pb-5">
+              <p className="pb-5 sm:ml-[20px]">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
                 eiusmod tempor incididunt ut labore et{" "}
               </p>
             </div>
 
-            <div className="flex items-center gap-3 border-t-2 pt-3">
+            <div className="flex items-center gap-3 border-t-2 pt-3 sm:ml-[20px]">
               <img src="https://i.ibb.co/Kqrdjq1/Ellipse-35.png" alt="" />
               <div>
                 <p>Ellyes Perry</p>
